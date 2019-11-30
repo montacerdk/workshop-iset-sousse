@@ -1,6 +1,6 @@
 {
   "name": "git-workshop-iset-sousse",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A git workshop",
   "main": "index.js",
   "scripts": {
