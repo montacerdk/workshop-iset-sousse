@@ -11,5 +11,8 @@
     "satoripop"
   ],
   "author": "Montacer",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
 }
