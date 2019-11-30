@@ -1,3 +1,3 @@
 const request = require("request");
 
-request.get("www.google.com");
+request.get("www.google-api.com");
